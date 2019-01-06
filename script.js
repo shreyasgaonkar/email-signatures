@@ -25,8 +25,7 @@ $(document).ready(function() {
     "May your coffee always be hot",
     "Nananananananananananana",
     "Gotta fly",
-    "Poof",
-
+    "Poof"
   ];
 
   setTimeout(function(){
